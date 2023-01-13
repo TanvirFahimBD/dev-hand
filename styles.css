@@ -78,6 +78,9 @@ body {
 .result-stat{
   margin: 20% 40%;
 }
+.history-div{
+  min-height: 250px;
+}
 #show-time{
   text-align: center;
   color: white;
